@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LifeOS",
+  "name": "LifeOS — Personal Manager",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +18,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/lifeos",
+  "scope": "/lifeos/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#F5F0EB",
+  "background_color": "#F5F0EB",
+  "orientation": "portrait"
 }
