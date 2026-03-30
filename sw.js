@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lifeos-v1';
+const CACHE_NAME = 'lifeos-v3';
 const urlsToCache = [
   '/lifeos/',
   '/lifeos/index.html',
@@ -28,8 +28,3 @@ self.addEventListener('activate', event => {
     )
   );
 });
-```
-
-Save with `Cmd + S`. Now let's deploy. In your terminal run:
-```
-npm run deploy
