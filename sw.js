@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lifeos-v5';
+const CACHE_NAME = 'lifeos-v6';
 const urlsToCache = [
   '/lifeos/',
   '/lifeos/index.html',
