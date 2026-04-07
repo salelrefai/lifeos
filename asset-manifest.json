@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lifeos/static/css/main.9cfb2790.css",
-    "main.js": "/lifeos/static/js/main.81f79458.js",
+    "main.js": "/lifeos/static/js/main.4870e430.js",
     "static/js/453.69dbca42.chunk.js": "/lifeos/static/js/453.69dbca42.chunk.js",
     "index.html": "/lifeos/index.html",
     "main.9cfb2790.css.map": "/lifeos/static/css/main.9cfb2790.css.map",
-    "main.81f79458.js.map": "/lifeos/static/js/main.81f79458.js.map",
+    "main.4870e430.js.map": "/lifeos/static/js/main.4870e430.js.map",
     "453.69dbca42.chunk.js.map": "/lifeos/static/js/453.69dbca42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cfb2790.css",
-    "static/js/main.81f79458.js"
+    "static/js/main.4870e430.js"
   ]
 }
